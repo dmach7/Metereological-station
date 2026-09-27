@@ -3,6 +3,12 @@
 
 A feature-rich embedded weather station built around a TFT display and rotary encoder, reading from a suite of environmental sensors with derived metrics, smoothing, and threshold alerts.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/4cc02403-c034-4807-ae28-08a108b44d10">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/7493d4dc-5611-4281-a1e3-0156c850664c">
+  <img alt="Weather Station Firmware banner" width="1200" height="300" src="https://github.com/user-attachments/assets/4cc02403-c034-4807-ae28-08a108b44d10">
+</picture>
+
 ---
 
 ## 📡 Sensor Readings
